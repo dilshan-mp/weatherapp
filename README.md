@@ -1,16 +1,9 @@
 # weatherapp
 
 A new Flutter project.
+this project use bloc for statemanagement 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![photo_2024-07-11_14-37-57](https://github.com/dilshan-mp/weatherapp/assets/99384114/2b6a4b9d-6d4b-458b-b1b7-c1b5a0eb8e5f)
+![photo_2024-07-11_14-38-03](https://github.com/dilshan-mp/weatherapp/assets/99384114/d961bdeb-dd3a-4977-92b1-738003c96076)
